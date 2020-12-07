@@ -1,0 +1,242 @@
+gender,age_range,occupation,0
+F,18-24,K-12 student,3
+F,18-24,academic/educator,18
+F,18-24,artist,9
+F,18-24,clerical/admin,9
+F,18-24,college/grad student,163
+F,18-24,customer service,5
+F,18-24,doctor/health care,3
+F,18-24,executive/managerial,3
+F,18-24,homemaker,5
+F,18-24,lawyer,1
+F,18-24,other or not specified,32
+F,18-24,programmer,3
+F,18-24,sales/marketing,15
+F,18-24,scientist,1
+F,18-24,self-employed,2
+F,18-24,technician/engineer,6
+F,18-24,unemployed,6
+F,18-24,writer,14
+F,25-34,academic/educator,69
+F,25-34,artist,31
+F,25-34,clerical/admin,38
+F,25-34,college/grad student,59
+F,25-34,customer service,12
+F,25-34,doctor/health care,32
+F,25-34,executive/managerial,62
+F,25-34,homemaker,28
+F,25-34,lawyer,11
+F,25-34,other or not specified,92
+F,25-34,programmer,17
+F,25-34,sales/marketing,36
+F,25-34,scientist,15
+F,25-34,self-employed,9
+F,25-34,technician/engineer,22
+F,25-34,tradesman/craftsman,2
+F,25-34,unemployed,4
+F,25-34,writer,19
+F,35-44,academic/educator,41
+F,35-44,artist,19
+F,35-44,clerical/admin,26
+F,35-44,college/grad student,6
+F,35-44,customer service,7
+F,35-44,doctor/health care,24
+F,35-44,executive/managerial,37
+F,35-44,farmer,1
+F,35-44,homemaker,34
+F,35-44,lawyer,5
+F,35-44,other or not specified,43
+F,35-44,programmer,15
+F,35-44,sales/marketing,17
+F,35-44,scientist,3
+F,35-44,self-employed,15
+F,35-44,technician/engineer,16
+F,35-44,unemployed,3
+F,35-44,writer,26
+F,45-49,academic/educator,37
+F,45-49,artist,15
+F,45-49,clerical/admin,10
+F,45-49,college/grad student,2
+F,45-49,customer service,5
+F,45-49,doctor/health care,19
+F,45-49,executive/managerial,16
+F,45-49,homemaker,11
+F,45-49,lawyer,2
+F,45-49,other or not specified,25
+F,45-49,programmer,9
+F,45-49,retired,2
+F,45-49,sales/marketing,4
+F,45-49,scientist,7
+F,45-49,self-employed,10
+F,45-49,technician/engineer,5
+F,45-49,writer,10
+F,50-55,academic/educator,27
+F,50-55,artist,9
+F,50-55,clerical/admin,10
+F,50-55,college/grad student,4
+F,50-55,customer service,2
+F,50-55,doctor/health care,14
+F,50-55,executive/managerial,16
+F,50-55,farmer,1
+F,50-55,homemaker,7
+F,50-55,lawyer,2
+F,50-55,other or not specified,18
+F,50-55,programmer,4
+F,50-55,retired,5
+F,50-55,sales/marketing,4
+F,50-55,self-employed,10
+F,50-55,technician/engineer,3
+F,50-55,tradesman/craftsman,2
+F,50-55,writer,8
+F,56+,academic/educator,16
+F,56+,artist,6
+F,56+,clerical/admin,7
+F,56+,doctor/health care,10
+F,56+,executive/managerial,4
+F,56+,farmer,1
+F,56+,homemaker,4
+F,56+,lawyer,1
+F,56+,other or not specified,13
+F,56+,programmer,2
+F,56+,retired,27
+F,56+,sales/marketing,3
+F,56+,scientist,2
+F,56+,self-employed,5
+F,56+,writer,1
+F,Under 18,K-12 student,63
+F,Under 18,academic/educator,1
+F,Under 18,artist,2
+F,Under 18,executive/managerial,1
+F,Under 18,other or not specified,9
+F,Under 18,unemployed,2
+M,18-24,K-12 student,26
+M,18-24,academic/educator,27
+M,18-24,artist,35
+M,18-24,clerical/admin,9
+M,18-24,college/grad student,371
+M,18-24,customer service,13
+M,18-24,doctor/health care,6
+M,18-24,executive/managerial,14
+M,18-24,farmer,1
+M,18-24,homemaker,1
+M,18-24,lawyer,6
+M,18-24,other or not specified,74
+M,18-24,programmer,56
+M,18-24,sales/marketing,22
+M,18-24,scientist,13
+M,18-24,self-employed,16
+M,18-24,technician/engineer,46
+M,18-24,tradesman/craftsman,10
+M,18-24,unemployed,24
+M,18-24,writer,35
+M,25-34,K-12 student,1
+M,25-34,academic/educator,87
+M,25-34,artist,82
+M,25-34,clerical/admin,30
+M,25-34,college/grad student,141
+M,25-34,customer service,40
+M,25-34,doctor/health care,44
+M,25-34,executive/managerial,191
+M,25-34,farmer,6
+M,25-34,homemaker,1
+M,25-34,lawyer,40
+M,25-34,other or not specified,206
+M,25-34,programmer,164
+M,25-34,sales/marketing,97
+M,25-34,scientist,58
+M,25-34,self-employed,49
+M,25-34,technician/engineer,180
+M,25-34,tradesman/craftsman,21
+M,25-34,unemployed,11
+M,25-34,writer,89
+M,35-44,K-12 student,1
+M,35-44,academic/educator,77
+M,35-44,artist,28
+M,35-44,clerical/admin,16
+M,35-44,college/grad student,8
+M,35-44,customer service,18
+M,35-44,doctor/health care,35
+M,35-44,executive/managerial,177
+M,35-44,farmer,2
+M,35-44,homemaker,1
+M,35-44,lawyer,26
+M,35-44,other or not specified,92
+M,35-44,programmer,71
+M,35-44,retired,5
+M,35-44,sales/marketing,53
+M,35-44,scientist,22
+M,35-44,self-employed,43
+M,35-44,technician/engineer,116
+M,35-44,tradesman/craftsman,16
+M,35-44,unemployed,6
+M,35-44,writer,42
+M,45-49,academic/educator,43
+M,45-49,artist,15
+M,45-49,clerical/admin,7
+M,45-49,college/grad student,1
+M,45-49,customer service,5
+M,45-49,doctor/health care,12
+M,45-49,executive/managerial,58
+M,45-49,farmer,1
+M,45-49,lawyer,15
+M,45-49,other or not specified,41
+M,45-49,programmer,23
+M,45-49,retired,5
+M,45-49,sales/marketing,22
+M,45-49,scientist,10
+M,45-49,self-employed,28
+M,45-49,technician/engineer,52
+M,45-49,tradesman/craftsman,9
+M,45-49,unemployed,2
+M,45-49,writer,12
+M,50-55,academic/educator,43
+M,50-55,artist,9
+M,50-55,clerical/admin,6
+M,50-55,college/grad student,1
+M,50-55,customer service,4
+M,50-55,doctor/health care,26
+M,50-55,executive/managerial,64
+M,50-55,farmer,1
+M,50-55,lawyer,14
+M,50-55,other or not specified,28
+M,50-55,programmer,18
+M,50-55,retired,22
+M,50-55,sales/marketing,15
+M,50-55,scientist,8
+M,50-55,self-employed,35
+M,50-55,technician/engineer,32
+M,50-55,tradesman/craftsman,7
+M,50-55,unemployed,2
+M,50-55,writer,15
+M,56+,K-12 student,1
+M,56+,academic/educator,39
+M,56+,artist,6
+M,56+,clerical/admin,5
+M,56+,customer service,1
+M,56+,doctor/health care,11
+M,56+,executive/managerial,35
+M,56+,farmer,2
+M,56+,lawyer,5
+M,56+,other or not specified,20
+M,56+,programmer,5
+M,56+,retired,75
+M,56+,sales/marketing,12
+M,56+,scientist,5
+M,56+,self-employed,19
+M,56+,technician/engineer,22
+M,56+,tradesman/craftsman,3
+M,56+,unemployed,2
+M,56+,writer,10
+M,Under 18,K-12 student,100
+M,Under 18,academic/educator,3
+M,Under 18,artist,1
+M,Under 18,college/grad student,3
+M,Under 18,executive/managerial,1
+M,Under 18,farmer,1
+M,Under 18,lawyer,1
+M,Under 18,other or not specified,18
+M,Under 18,programmer,1
+M,Under 18,retired,1
+M,Under 18,sales/marketing,2
+M,Under 18,technician/engineer,2
+M,Under 18,unemployed,10
